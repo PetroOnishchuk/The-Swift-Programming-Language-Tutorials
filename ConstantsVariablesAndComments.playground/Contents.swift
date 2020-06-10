@@ -33,17 +33,26 @@ var nameOfMonth = "January"
 nameOfMonth = "May"
 nameOfMonth = "April"
 
-
 // 3.Type Annotations
-
 
 let randomNumber: Int
 randomNumber = 10
 
-
 var movieTitle: String
 movieTitle = "Avengers"
 
-
 var isConnected = true
-isConnected = true
+isConnected = false
+
+
+
+
+
+
+
+
+
+
+
+
+
