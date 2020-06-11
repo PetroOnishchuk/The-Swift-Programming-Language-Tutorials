@@ -12,3 +12,4 @@ My Twitter account: [Twitter Petro Onishchuk](https://mobile.twitter.com/petro_o
 
 
 ## 1. [Constants, Variables and Comments](https://github.com/PetroOnishchuk/The-Swift-Programming-Language-Tutorials/tree/master/ConstantsVariablesAndComments.playground)
+ [YouTube](https://www.youtube.com/watch?v=H9VbNznYxvo&list=PL3pUvT0fmHNhqAhCChG0Ho3zqBzFtSHaA&index=2&t=0s)
