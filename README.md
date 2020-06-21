@@ -15,3 +15,6 @@ My Twitter account: [Twitter Petro Onishchuk](https://mobile.twitter.com/petro_o
 [GitHub](https://github.com/PetroOnishchuk/The-Swift-Programming-Language-Tutorials/tree/master/ConstantsVariablesAndComments.playground)<br  />
 
  [YouTube](https://www.youtube.com/watch?v=H9VbNznYxvo&list=PL3pUvT0fmHNhqAhCChG0Ho3zqBzFtSHaA&index=2&t=0s)<br  />
+
+## 2. [Integers and Floating-Point Numbers]( https://github.com/PetroOnishchuk/The-Swift-Programming-Language-Tutorials/tree/master/IntegersAndFloating-PointNumbers.playground)
+[GitHub](https://github.com/PetroOnishchuk/The-Swift-Programming-Language-Tutorials/tree/master/IntegersAndFloating-PointNumbers.playground)<br  />
