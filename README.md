@@ -18,3 +18,4 @@ My Twitter account: [Twitter Petro Onishchuk](https://mobile.twitter.com/petro_o
 
 ## 2. [Integers and Floating-Point Numbers]( https://github.com/PetroOnishchuk/The-Swift-Programming-Language-Tutorials/tree/master/IntegersAndFloating-PointNumbers.playground)
 [GitHub](https://github.com/PetroOnishchuk/The-Swift-Programming-Language-Tutorials/tree/master/IntegersAndFloating-PointNumbers.playground)<br  />
+ [YouTube](https://youtu.be/N_J5_abOmGU)<br  />
