@@ -51,3 +51,4 @@ let firstFloatNumber: Float = 5.123456789
 
 var secondDoubleNumber = 10.20
 secondDoubleNumber = 10.5
+
