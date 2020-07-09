@@ -29,4 +29,4 @@ My Twitter account: [Twitter Petro Onishchuk](https://mobile.twitter.com/petro_o
   ## 3. [Strings](https://github.com/PetroOnishchuk/The-Swift-Programming-Language-Tutorials/tree/master/String.playground)
   [GitHub](https://github.com/PetroOnishchuk/The-Swift-Programming-Language-Tutorials/tree/master/String.playground)
   
-  [YouTube](https://youtu.be/OwmmIRFXHkQ)
+  [YouTube](https://youtu.be/7RyKO95J6qs)
