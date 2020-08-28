@@ -30,3 +30,8 @@ My Twitter account: [Twitter Petro Onishchuk](https://mobile.twitter.com/petro_o
   [GitHub](https://github.com/PetroOnishchuk/The-Swift-Programming-Language-Tutorials/tree/master/String.playground)
   
   [YouTube](https://youtu.be/7RyKO95J6qs)
+
+## 2. [Collection Types  Part 1. Array. ]( https://github.com/PetroOnishchuk/The-Swift-Programming-Language-Tutorials/tree/master/CollectionTypesPart1Array.playground)
+[GitHub](https://github.com/PetroOnishchuk/The-Swift-Programming-Language-Tutorials/tree/master/CollectionTypesPart1Array.playground)<br  />
+
+ [YouTube](https://youtu.be/sJrVvgiDKSI)<br  />
