@@ -43,4 +43,4 @@ My 👋Clubhouse account: [@petro_onishchuk](https://www.joinclubhouse.com/@petr
 ## 6. [Swift Functions. .map, .compactMap, .flatMap](https://github.com/PetroOnishchuk/The-Swift-Programming-Language-Tutorials)
 [GitHub](https://github.com/PetroOnishchuk/The-Swift-Programming-Language-Tutorials)<br />
 
-[YouTube]()
+[YouTube](https://youtu.be/e8wt60FjGi8)<br />
