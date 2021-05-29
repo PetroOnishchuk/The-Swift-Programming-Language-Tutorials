@@ -24,17 +24,23 @@ My 👋Clubhouse account: [@petro_onishchuk](https://www.joinclubhouse.com/@petr
 
  [YouTube](https://youtu.be/N_J5_abOmGU)<br  />
  
- ## 2. [Basic Operators. Part 1. Assignment, Arithmetic and Remainder operators. ]( https://github.com/PetroOnishchuk/The-Swift-Programming-Language-Tutorials/tree/master/BasicOperatorsPart1.playground)
+ ## 3. [Basic Operators. Part 1. Assignment, Arithmetic and Remainder operators. ]( https://github.com/PetroOnishchuk/The-Swift-Programming-Language-Tutorials/tree/master/BasicOperatorsPart1.playground)
  [GitHub](https://github.com/PetroOnishchuk/The-Swift-Programming-Language-Tutorials/tree/master/BasicOperatorsPart1.playground)<br  />
  
   [YouTube](https://youtu.be/_zUNEo8gZMM)<br  />
   
-  ## 3. [Strings](https://github.com/PetroOnishchuk/The-Swift-Programming-Language-Tutorials/tree/master/String.playground)
+  ## 4. [Strings](https://github.com/PetroOnishchuk/The-Swift-Programming-Language-Tutorials/tree/master/String.playground)
   [GitHub](https://github.com/PetroOnishchuk/The-Swift-Programming-Language-Tutorials/tree/master/String.playground)
   
   [YouTube](https://youtu.be/7RyKO95J6qs)
 
-## 2. [Collection Types  Part 1. Array. ]( https://github.com/PetroOnishchuk/The-Swift-Programming-Language-Tutorials/tree/master/CollectionTypesPart1Array.playground)
+## 5. [Collection Types  Part 1. Array. ]( https://github.com/PetroOnishchuk/The-Swift-Programming-Language-Tutorials/tree/master/CollectionTypesPart1Array.playground)
 [GitHub](https://github.com/PetroOnishchuk/The-Swift-Programming-Language-Tutorials/tree/master/CollectionTypesPart1Array.playground)<br  />
 
  [YouTube](https://youtu.be/sJrVvgiDKSI)<br  />
+
+
+## 6. [Swift Functions. .map, .compactMap, .flatMap](https://github.com/PetroOnishchuk/The-Swift-Programming-Language-Tutorials)
+[GitHub](https://github.com/PetroOnishchuk/The-Swift-Programming-Language-Tutorials)<br />
+
+[YouTube]()
