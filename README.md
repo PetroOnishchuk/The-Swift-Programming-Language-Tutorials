@@ -40,7 +40,7 @@ My 👋Clubhouse account: [@petro_onishchuk](https://www.joinclubhouse.com/@petr
  [YouTube](https://youtu.be/sJrVvgiDKSI)<br  />
 
 
-## 6. [Swift Functions. .map, .compactMap, .flatMap](https://github.com/PetroOnishchuk/The-Swift-Programming-Language-Tutorials)
-[GitHub](https://github.com/PetroOnishchuk/The-Swift-Programming-Language-Tutorials)<br />
+## 6. [Swift Functions. .map, .compactMap, .flatMap](https://github.com/PetroOnishchuk/The-Swift-Programming-Language-Tutorials/tree/master/mapFunc01.playground)
+[GitHub](https://github.com/PetroOnishchuk/The-Swift-Programming-Language-Tutorials/tree/master/mapFunc01.playground)<br />
 
 [YouTube](https://youtu.be/e8wt60FjGi8)<br />
