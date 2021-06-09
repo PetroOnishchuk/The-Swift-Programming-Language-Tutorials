@@ -44,3 +44,8 @@ My 👋Clubhouse account: [@petro_onishchuk](https://www.joinclubhouse.com/@petr
 [GitHub](https://github.com/PetroOnishchuk/The-Swift-Programming-Language-Tutorials/tree/master/mapFunc01.playground)<br />
 
 [YouTube](https://youtu.be/e8wt60FjGi8)<br />
+
+## 7. [Computed Properties. Swift Properties](https://github.com/PetroOnishchuk/The-Swift-Programming-Language-Tutorials/tree/master/ComputedProperties01.playground)
+[GitHub](https://github.com/PetroOnishchuk/The-Swift-Programming-Language-Tutorials/tree/master/ComputedProperties01.playground)<br />
+
+[YouTube](https://youtu.be/ZSgcI3HwVzw)<br />
