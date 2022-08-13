@@ -49,3 +49,5 @@ My 👋Clubhouse account: [@petro_onishchuk](https://www.joinclubhouse.com/@petr
 [GitHub](https://github.com/PetroOnishchuk/The-Swift-Programming-Language-Tutorials/tree/master/ComputedProperties01.playground)<br />
 
 [YouTube](https://youtu.be/ZSgcI3HwVzw)<br />
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=petroonishchuk.petroonishchuk)
